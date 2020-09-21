@@ -3,4 +3,6 @@
     <filter root="/apps/aemMovie62">
         <exclude pattern="/apps/aemMovie62/install" />
     </filter>
+    <filter root="/etc/designs/aemMovie62"/>
+    <filter root="/etc/designs/aemMovie62"/>
 </workspaceFilter>
